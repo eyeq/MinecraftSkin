@@ -3,12 +3,12 @@
 Minecraft自作スキン  
   
 ### 目次
-- [Minecraft(2)](#Minecraft)
-- [Minecraft_blocks(19)](#Minecraft_blocks)
-- [Ever17(10)](#Ever17)
+- [Minecraft(2)](#minecraft)
+- [Minecraft_blocks(19)](#minecraft_blocks)
+- [Ever17(10)](#ever17)
 - [あいまいみー(11)](#あいまいみー)
 - [最遊記(32)](#最遊記)
-- [パンティ&ストッキングwithガーターベルト(16)](#パンティ&ストッキングwithガーターベルト)
+- [パンティ&ストッキングwithガーターベルト(16)](#パンティストッキングwithガーターベルト)
 - [ひまわり(5)](#ひまわり)
 - [その他(6)](#その他)
 - [ねた(10)](#ねた)
@@ -77,13 +77,16 @@ Minecraft自作スキン
 ![](https://github.com/eyeq/MinecraftSkin/blob/master/最遊記/玄奘三蔵法師_RELOAD.gif)
 ![](https://github.com/eyeq/MinecraftSkin/blob/master/最遊記/玄奘三蔵法師_キャストオフ.gif)
 ![](https://github.com/eyeq/MinecraftSkin/blob/master/最遊記/玄奘三蔵法師_修行僧.gif)
+
 ![](https://github.com/eyeq/MinecraftSkin/blob/master/最遊記/孫 悟空_500年前.gif)
 ![](https://github.com/eyeq/MinecraftSkin/blob/master/最遊記/孫 悟空.gif)
 ![](https://github.com/eyeq/MinecraftSkin/blob/master/最遊記/孫 悟空_RELOAD.gif)
 ![](https://github.com/eyeq/MinecraftSkin/blob/master/最遊記/孫 悟空_斉天大聖.gif)
+
 ![](https://github.com/eyeq/MinecraftSkin/blob/master/最遊記/捲簾大将.gif)
 ![](https://github.com/eyeq/MinecraftSkin/blob/master/最遊記/沙 悟浄.gif)
 ![](https://github.com/eyeq/MinecraftSkin/blob/master/最遊記/沙 悟浄_RELOAD.gif)
+
 ![](https://github.com/eyeq/MinecraftSkin/blob/master/最遊記/天蓬元帥.gif)
 ![](https://github.com/eyeq/MinecraftSkin/blob/master/最遊記/猪 八戒.gif)
 ![](https://github.com/eyeq/MinecraftSkin/blob/master/最遊記/猪 八戒_RELOAD.gif)
