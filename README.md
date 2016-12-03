@@ -1,6 +1,6 @@
 # MinecraftSkin
 
-Minecraft自作スキン  
+自作したMinecraft用skin置き場  
   
 #### 目次
 - [Minecraft(5)](#minecraft)
@@ -25,7 +25,7 @@ Minecraft自作スキン
 #### Minecraft_blocks
 ##### Debug
 ![Debug](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/debugMan.gif "Debug")
-![Debug2](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/debugMan2.gif "Debug"")
+![Debug2](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/debugMan2.gif "Debug2")
 ##### 単一ブロック
 ![Beacon](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/beaconMan.gif "Beacon")
 ![Bedrock](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/bedrockMan.gif "Bedrock")
@@ -62,8 +62,8 @@ Minecraft自作スキン
 ![茜ヶ崎 空](https://github.com/eyeq/MinecraftSkin/blob/master/Ever17/茜ヶ崎 空.alex.gif "茜ヶ崎 空")
 ![小町 つぐみ](https://github.com/eyeq/MinecraftSkin/blob/master/Ever17/小町 つぐみ.alex.gif "小町 つぐみ")
 ![松永 沙羅](https://github.com/eyeq/MinecraftSkin/blob/master/Ever17/松永 沙羅.alex.gif "松永 沙羅")
-![田中 優美清春香菜](https://github.com/eyeq/MinecraftSkin/blob/master/Ever17/田中 優美清春香菜.alex.gif "田中 優美清春香菜")
-![田中 優美清秋香菜](https://github.com/eyeq/MinecraftSkin/blob/master/Ever17/田中 優美清秋香菜.alex.gif "田中 優美清秋香菜")
+![田中 優](https://github.com/eyeq/MinecraftSkin/blob/master/Ever17/田中 優美清春香菜.alex.gif "田中 優")
+![田中 優](https://github.com/eyeq/MinecraftSkin/blob/master/Ever17/田中 優美清秋香菜.alex.gif "田中 優")
 ![八神 ココ](https://github.com/eyeq/MinecraftSkin/blob/master/Ever17/八神 ココ.alex.gif "八神 ココ")
 
 #### あいまいみー
