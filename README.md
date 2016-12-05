@@ -1,21 +1,24 @@
 # MinecraftSkin
-
-自作したMinecraft用skin置き場  
   
+自作したMinecraft用のskin置き場  
+透過しているように見えても実際はそうでない場合があります。  
+  
 #### 目次
 - [Minecraft(5)](#minecraft)
 - [Minecraft_blocks(21)](#minecraft_blocks)
 - [Minecraft_items(2)](#minecraft_items)
+- [Minecraft_entity(78)](#minecraft_entity)
 - [Ever17(10)](#ever17)
 - [あいまいみー(11)](#あいまいみー)
 - [最遊記(32)](#最遊記)
 - [パンティ&ストッキングwithガーターベルト(16)](#パンティストッキングwithガーターベルト)
 - [ひまわり(5)](#ひまわり)
-- [マテリアル・パズル(9)](#マテリアルパズル)
+- [マテリアル・パズル(12)](#マテリアルパズル)
 - [その他(11)](#その他)
 - [ねた(11)](#ねた)
 
 #### Minecraft
+##### steve
 ![DoubleSteve](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft/steve_DoubleMan.gif "DoubleSteve")
 ![GoldenSteve](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft/steve_Golden.gif "GoldenSteve")
 ![2頭身](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft/steve_2頭身.gif "2頭身")
@@ -41,7 +44,7 @@
 ![StructureData](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/structureManD.gif "StructureData")
 ![StructureLoad](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/structureManL.gif "StructureLoad")
 ![StructureSave](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/structureManS.gif "StructureSave")
-##### 改変
+##### 加工あり
 ![CactusMan](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/cactusMan.gif "CactusMan")
 ![OreIronMan](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/ironOreMan.gif "OreIronMan")
 ![TreeOakMan](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/treeOakMan.gif "TreeOakMan")
@@ -49,8 +52,95 @@
 ![WoolGirl](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/woolGirl.alex.gif "WoolGirl")
 
 #### Minecraft_items
+##### 単一アイテム
 ![Barrier](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_items/barrierMan.gif "Barrier")
 ![StructureVoid](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_items/structureManV.gif "StructureVoid")
+
+#### Minecraft_entity
+##### パーカー
+###### プレイヤー
+![アレックスパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_alex.alex.gif "アレックスパーカー")
+![スティーブパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_steve.alex.gif "スティーブパーカー")
+###### 動物
+![コウモリパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_bat.alex.gif "コウモリパーカー")
+![シロクマパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_bear_polarbear.alex.gif "シロクマパーカー")
+![ニワトリパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_chicken.alex.gif "ニワトリパーカー")
+![牛パーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_cow.alex.gif "牛パーカー")
+![ムッシュルームパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_cow_mooshroom.alex.gif "ムッシュルームパーカー")
+![ウマパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_horse_black.alex.gif "ウマパーカー")
+![ウマパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_horse_brown.alex.gif "ウマパーカー")
+![ウマパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_horse_chestnut.alex.gif "ウマパーカー")
+![ウマパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_horse_creamy.alex.gif "ウマパーカー")
+![ウマパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_horse_darkbrown.alex.gif "ウマパーカー")
+![ウマパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_horse_gray.alex.gif "ウマパーカー")
+![ウマパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_horse_white.alex.gif "ウマパーカー")
+![ラバパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_horse_mule.alex.gif "ラバパーカー")
+![ロバパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_horse_donkey.alex.gif "ロバパーカー")
+![スケルトンホースパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_horse_skeleton.alex.gif "スケルトンホースパーカー")
+![ゾンビホースパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_horse_zombie.alex.gif "ゾンビホースパーカー")
+![ラマパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_llama.alex.gif "ラマパーカー")
+![ラマパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_llama_brown.alex.gif "ラマパーカー")
+![ラマパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_llama_creamy.alex.gif "ラマパーカー")
+![ラマパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_llama_gray.alex.gif "ラマパーカー")
+![ラマパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_llama_white.alex.gif "ラマパーカー")
+![ヤマネコパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_ocelot.alex.gif "ヤマネコパーカー")
+![ヤマネコパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_ocelot_black.alex.gif "ヤマネコパーカー")
+![ヤマネコパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_ocelot_red.alex.gif "ヤマネコパーカー")
+![ヤマネコパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_ocelot_siamese.alex.gif "ヤマネコパーカー")
+![豚パーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_pig.alex.gif "豚パーカー")
+![ウサギパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_rabbit_black.alex.gif "ウサギパーカー")
+![ウサギパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_rabbit_brown.alex.gif "ウサギパーカー")
+![ウサギパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_rabbit_gold.alex.gif "ウサギパーカー")
+![ウサギパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_rabbit_salt.alex.gif "ウサギパーカー")
+![ウサギパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_rabbit_splotched.alex.gif "ウサギパーカー")
+![ウサギパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_rabbit_toast.alex.gif "ウサギパーカー")
+![ウサギパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_rabbit_white.alex.gif "ウサギパーカー")
+![殺人ウサギパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_rabbit_caerbannog.alex.gif "殺人ウサギパーカー")
+![羊パーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_sheep.alex.gif "羊パーカー")
+![イカパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_squid.alex.gif "イカパーカー")
+![オオカミパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_wolf.alex.gif "オオカミパーカー")
+![オオカミパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_wolf_angry.alex.gif "オオカミパーカー")
+###### モンスター
+![ブレイズパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_blaze.alex.gif "ブレイズパーカー")
+![クリーパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_creeper.alex.gif "クリーパーカー")
+![クリーパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_creeper_S125.alex.gif "クリーパーカー")
+![エンダーマンパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_enderman.alex.gif "エンダーマンパーカー")
+![ガストパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_ghast.alex.gif "ガストパーカー")
+![ガストパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_ghast_shooting.alex.gif "ガストパーカー")
+![ガーディアンパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_guardian.alex.gif "ガーディアンパーカー")
+![エルダーガーディアンパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_guardian_elder.alex.gif "エルダーガーディアンパーカー")
+![イヴォーカーパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_illager_evoker.alex.gif "イヴォーカーパーカー")
+![ヴェックスパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_illager_vex.alex.gif "ヴェックスパーカー")
+![ヴェックスパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_illager_vex_charging.alex.gif "ヴェックスパーカー")
+![ヴィンディケーターパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_illager_vindicator.alex.gif "ヴィンディケーターパーカー")
+![シュルカーパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_shulker.alex.gif "シュルカーパーカー")
+![シルバーフィッシュパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_silverfish.alex.gif "シルバーフィッシュパーカー")
+![スケルトンパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_skeleton.alex.gif "スケルトンパーカー")
+![ストレイパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_skeleton_stray.alex.gif "ストレイパーカー")
+![ストレイパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_skeleton_stray_overlay.alex.gif "ストレイパーカー")
+![ウィザースケルトンパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_skeleton_wither.alex.gif "ウィザースケルトンパーカー")
+![スライムパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_slime.alex.gif "スライムパーカー")
+![マグマキューブパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_slime_magmacube.alex.gif "マグマキューブパーカー")
+![クモパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_spider.alex.gif "クモパーカー")
+![洞窟グモパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_spider_cave.alex.gif "洞窟グモパーカー")
+![ウィッチパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_witch.alex.gif "ウィッチパーカー")
+![ゾンビパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_zombie.alex.gif "ゾンビパーカー")
+![村人ゾンビパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_zombie_villager.alex.gif "村人ゾンビパーカー")
+![村人ゾンビパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_zombie_villager_butcher.alex.gif "村人ゾンビパーカー")
+![村人ゾンビパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_zombie_villager_farmer.alex.gif "村人ゾンビパーカー")
+![村人ゾンビパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_zombie_villager_priest.alex.gif "村人ゾンビパーカー")
+![村人ゾンビパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_zombie_villager_smith.alex.gif "村人ゾンビパーカー")
+![ハスクパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_zombie_husk.alex.gif "ハスクパーカー")
+![ゾンビピッグマンパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_zombie_pigman.alex.gif "ゾンビピッグマンパーカー")
+
+![エンダードラゴンパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_enderdragon.alex.gif "エンダードラゴンパーカー")
+![ウィザーパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_wither.alex.gif "ウィザーパーカー")
+![ウィザーパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_wither_invulnerable.alex.gif "ウィザーパーカー")
+###### 他
+![アイアンゴーレムパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_iron_golem.alex.gif "アイアンゴーレムパーカー")
+![スノウゴーレムパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_snowman.alex.gif "スノウゴーレムパーカー")
+![村人パーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_villager.alex.gif "村人パーカー")
+![エンダークリスタルパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/パーカー_endercrystal.alex.gif "エンダークリスタルパーカー")
 
 #### Ever17
 ##### 男性
@@ -143,6 +233,7 @@
 ![ニーソックス](https://github.com/eyeq/MinecraftSkin/blob/master/パンティ&ストッキングwithガーターベルト/ニーソックス_悪魔.alex.gif "ニーソックス")
 
 #### ひまわり
+##### 女性
 ![アクア](https://github.com/eyeq/MinecraftSkin/blob/master/ひまわり/アクア.alex.gif "アクア")
 ![アリエス](https://github.com/eyeq/MinecraftSkin/blob/master/ひまわり/アリエス.alex.gif "アリエス")
 ![Android](https://github.com/eyeq/MinecraftSkin/blob/master/ひまわり/アリエス_Android.alex.gif "Android")
@@ -155,13 +246,17 @@
 ![アクア](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/アクア_戦闘服.alex.gif "アクア")
 ![アクア](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/アクア_戦闘服_フード外し.alex.gif "アクア")
 ![ティトォ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/ティトォ.gif "ティトォ")
+![ティトォ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/ティトォ_赤.gif "ティトォ")
 ##### 仲間
-![ミカゼ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/ミカゼ.gif "ミカゼ")
-![ミカゼ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/ミカゼ_おめん.gif "ミカゼ")
-![ミカゼ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/ミカゼ_キツネ.gif "ミカゼ")
+![ミカゼ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/御風.gif "ミカゼ")
+![ミカゼ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/御風_おめん.gif "ミカゼ")
+![ミカゼ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/御風_キツネ.gif "ミカゼ")
 ##### 女神の三十指
 ![アダラパタ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/アダラパタ.gif "アダラパタ")
-![アビャク](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/アビャク.gif "アビャク")
+![アビャク](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/阿白.gif "アビャク")
+![アビャク](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/阿白_キャストオフ.gif "アビャク")
+##### 他
+![ポコペムのジョギー](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/ポコペムのジョギー.gif "ポコペムのジョギー")
 
 #### その他
 ##### Viscera Cleanup Detail
@@ -182,18 +277,18 @@
 ![雨合羽](https://github.com/eyeq/MinecraftSkin/blob/master/その他/雨合羽.alex.gif "雨合羽")
 
 #### ねた
-##### 単純
+##### 模様
 ![Black](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/blackMan.gif "Black")
 ![Display](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/displayMan.gif "Display")
-##### 生物
-![かに](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/かに.gif "かに")
-![マグロ](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/マグロ.gif "マグロ")
-##### 未分類
-![カービィ](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/カービィ.gif "カービィ")
+![レインボーマン](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/レインボーマン.gif "レインボーマン")
+##### 無生物
 ![時計塔](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/クロックタワーマン.gif "時計塔")
 ![時計](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/クロックマン.gif "時計")
 ![ポストマン](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/ポストマン.gif "ポストマン")
-![レインボーマン](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/レインボーマン.gif "レインボーマン")
 ![火山](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/火山.gif "火山")
 ![自動販売機の中の人](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/自動販売機の中の人.gif "自動販売機の中の人")
+##### 生物
+![カービィ](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/カービィ.gif "カービィ")
+![かに](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/かに.gif "かに")
+![マグロ](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/マグロ.gif "マグロ")
   
