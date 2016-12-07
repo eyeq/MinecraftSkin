@@ -10,11 +10,12 @@
 - [Minecraft_entity(78)](#minecraft_entity)
 - [Ever17(10)](#ever17)
 - [あいまいみー(11)](#あいまいみー)
+- [ガーリッシュ ナンバー(5)]("ガーリッシュナンバー)
 - [最遊記(32)](#最遊記)
 - [パンティ&ストッキングwithガーターベルト(16)](#パンティストッキングwithガーターベルト)
 - [ひまわり(5)](#ひまわり)
-- [マテリアル・パズル(12)](#マテリアルパズル)
-- [その他(11)](#その他)
+- [マテリアル・パズル(21)](#マテリアルパズル)
+- [その他(15)](#その他)
 - [ねた(11)](#ねた)
 
 #### Minecraft
@@ -171,6 +172,14 @@
 ![三千万](https://github.com/eyeq/MinecraftSkin/blob/master/あいまいみー/麻衣_三千万.alex.gif "三千万")
 ![耳から血を噴出し舌を痙攣させながら嘔吐](https://github.com/eyeq/MinecraftSkin/blob/master/あいまいみー/麻衣_耳から血を噴出し舌を痙攣させながら嘔吐.alex.gif "耳から血を噴出し舌を痙攣させながら嘔吐")
 
+#### ガーリッシュ ナンバー
+##### メイン
+![烏丸 千歳](https://github.com/eyeq/MinecraftSkin/blob/master/ガーリッシュ ナンバー/烏丸 千歳.alex.gif "烏丸 千歳")
+![久我山 八重](https://github.com/eyeq/MinecraftSkin/blob/master/ガーリッシュ ナンバー/久我山 八重.alex.gif "久我山 八重")
+![片倉 京](https://github.com/eyeq/MinecraftSkin/blob/master/ガーリッシュ ナンバー/片倉 京.alex.gif "片倉 京")
+![苑生 百花](https://github.com/eyeq/MinecraftSkin/blob/master/ガーリッシュ ナンバー/苑生 百花.alex.gif "苑生 百花")
+![柴崎 万葉](https://github.com/eyeq/MinecraftSkin/blob/master/ガーリッシュ ナンバー/柴崎 万葉.alex.gif "柴崎 万葉")
+
 #### 最遊記
 ##### 三蔵一行
 ![金蝉童子](https://github.com/eyeq/MinecraftSkin/blob/master/最遊記/金蝉童子.gif "金蝉童子")
@@ -251,11 +260,20 @@
 ![ミカゼ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/御風.gif "ミカゼ")
 ![ミカゼ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/御風_おめん.gif "ミカゼ")
 ![ミカゼ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/御風_キツネ.gif "ミカゼ")
+![ミカゼ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/御風_キツネ_尻尾.gif "ミカゼ")
+![リュシカ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/リュシカ.gif "リュシカ")
+![リュシカ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/リュシカ_パン屋.gif "リュシカ")
 ##### 女神の三十指
 ![アダラパタ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/アダラパタ.gif "アダラパタ")
 ![アビャク](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/阿白.gif "アビャク")
 ![アビャク](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/阿白_キャストオフ.gif "アビャク")
+![クライム](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/クライム.gif "クライム")
+![ジール・ボーイ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/ジール・ボーイ.gif "ジール・ボーイ")
+![タイヨウマル](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/太陽丸.gif "タイヨウマル")
+![ツキマル](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/月丸.gif "ツキマル")
 ##### 他
+![ネクバーパ船長](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/ネクバーパ船長.gif "ネクバーパ船長")
+![ネクバーパ船長](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/ネクバーパ船長_キャストオフ.gif "ネクバーパ船長")
 ![ポコペムのジョギー](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/ポコペムのジョギー.gif "ポコペムのジョギー")
 
 #### その他
@@ -269,10 +287,15 @@
 ![ウサミミ仮面](https://github.com/eyeq/MinecraftSkin/blob/master/その他/ウサミミ仮面.gif "ウサミミ仮面")
 ##### ねこ神さま
 ![神様](https://github.com/eyeq/MinecraftSkin/blob/master/その他/神様.gif "神様")
+##### ぼくは王さま
+![王さま](https://github.com/eyeq/MinecraftSkin/blob/master/その他/王さま.gif "王さま")
 ##### 他
+![コロボックル](https://github.com/eyeq/MinecraftSkin/blob/master/その他/コロボックル.gif "コロボックル")
 ![人体模型](https://github.com/eyeq/MinecraftSkin/blob/master/その他/人体模型.gif "人体模型")
 ![忍者](https://github.com/eyeq/MinecraftSkin/blob/master/その他/忍者.gif "忍者")
 ![泥棒](https://github.com/eyeq/MinecraftSkin/blob/master/その他/泥棒.gif "泥棒")
+![体操服](https://github.com/eyeq/MinecraftSkin/blob/master/その他/体操服_入れる.alex.gif "体操服")
+![体操服](https://github.com/eyeq/MinecraftSkin/blob/master/その他/体操服_出す.alex.gif "体操服")
 ![着物](https://github.com/eyeq/MinecraftSkin/blob/master/その他/着物.alex.gif "着物")
 ![雨合羽](https://github.com/eyeq/MinecraftSkin/blob/master/その他/雨合羽.alex.gif "雨合羽")
 
