@@ -1,7 +1,7 @@
 # MinecraftSkin
   
 自作したMinecraft用のskin置き場  
-透過しているように見えても実際はそうでない場合があります。  
+透過しているように見えても実際の表示はそうでない場合があります。  
   
 #### 目次
 - [Minecraft(5)](#minecraft)
@@ -261,8 +261,8 @@
 ![ミカゼ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/御風_おめん.gif "ミカゼ")
 ![ミカゼ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/御風_キツネ.gif "ミカゼ")
 ![ミカゼ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/御風_キツネ_尻尾.gif "ミカゼ")
-![リュシカ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/リュシカ.gif "リュシカ")
-![リュシカ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/リュシカ_パン屋.gif "リュシカ")
+![リュシカ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/リュシカ.alex.gif "リュシカ")
+![リュシカ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/リュシカ_パン屋.alex.gif "リュシカ")
 ##### 女神の三十指
 ![アダラパタ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/アダラパタ.gif "アダラパタ")
 ![アビャク](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/阿白.gif "アビャク")
@@ -270,7 +270,7 @@
 ![クライム](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/クライム.gif "クライム")
 ![ジール・ボーイ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/ジール・ボーイ.gif "ジール・ボーイ")
 ![タイヨウマル](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/太陽丸.gif "タイヨウマル")
-![ツキマル](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/月丸.gif "ツキマル")
+![ツキマル](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/月丸.alex.gif "ツキマル")
 ##### 他
 ![ネクバーパ船長](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/ネクバーパ船長.gif "ネクバーパ船長")
 ![ネクバーパ船長](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/ネクバーパ船長_キャストオフ.gif "ネクバーパ船長")
@@ -290,7 +290,7 @@
 ##### ぼくは王さま
 ![王さま](https://github.com/eyeq/MinecraftSkin/blob/master/その他/王さま.gif "王さま")
 ##### 他
-![コロボックル](https://github.com/eyeq/MinecraftSkin/blob/master/その他/コロボックル.gif "コロボックル")
+![コロボックル](https://github.com/eyeq/MinecraftSkin/blob/master/その他/コロボックル.alex.gif "コロボックル")
 ![人体模型](https://github.com/eyeq/MinecraftSkin/blob/master/その他/人体模型.gif "人体模型")
 ![忍者](https://github.com/eyeq/MinecraftSkin/blob/master/その他/忍者.gif "忍者")
 ![泥棒](https://github.com/eyeq/MinecraftSkin/blob/master/その他/泥棒.gif "泥棒")
