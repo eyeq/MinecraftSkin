@@ -14,9 +14,9 @@
 - [最遊記(32)](#最遊記)
 - [パンティ&ストッキングwithガーターベルト(16)](#パンティストッキングwithガーターベルト)
 - [ひまわり(5)](#ひまわり)
-- [マテリアル・パズル(21)](#マテリアルパズル)
+- [マテリアル・パズル(25)](#マテリアルパズル)
 - [その他(15)](#その他)
-- [ねた(11)](#ねた)
+- [ねた(14)](#ねた)
 
 #### Minecraft
 ##### steve
@@ -267,10 +267,14 @@
 ![アダラパタ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/アダラパタ.gif "アダラパタ")
 ![アビャク](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/阿白.gif "アビャク")
 ![アビャク](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/阿白_キャストオフ.gif "アビャク")
+![ガシャロ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/ガシャロ.gif "ガシャロ")
+![ガシャロ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/ガシャロ_大金持ち.gif "ガシャロ")
 ![クライム](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/クライム.gif "クライム")
+![コクマ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/黒魔.gif "コクマ")
 ![ジール・ボーイ](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/ジール・ボーイ.gif "ジール・ボーイ")
 ![タイヨウマル](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/太陽丸.gif "タイヨウマル")
 ![ツキマル](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/月丸.alex.gif "ツキマル")
+![ドルチル](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/ドルチル.gif "ドルチル")
 ##### 他
 ![ネクバーパ船長](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/ネクバーパ船長.gif "ネクバーパ船長")
 ![ネクバーパ船長](https://github.com/eyeq/MinecraftSkin/blob/master/マテリアル・パズル/ネクバーパ船長_キャストオフ.gif "ネクバーパ船長")
@@ -290,10 +294,12 @@
 ##### ぼくは王さま
 ![王さま](https://github.com/eyeq/MinecraftSkin/blob/master/その他/王さま.gif "王さま")
 ##### 他
-![コロボックル](https://github.com/eyeq/MinecraftSkin/blob/master/その他/コロボックル.alex.gif "コロボックル")
+###### 男性
 ![人体模型](https://github.com/eyeq/MinecraftSkin/blob/master/その他/人体模型.gif "人体模型")
 ![忍者](https://github.com/eyeq/MinecraftSkin/blob/master/その他/忍者.gif "忍者")
 ![泥棒](https://github.com/eyeq/MinecraftSkin/blob/master/その他/泥棒.gif "泥棒")
+###### 女性
+![コロボックル](https://github.com/eyeq/MinecraftSkin/blob/master/その他/コロボックル.alex.gif "コロボックル")
 ![体操服](https://github.com/eyeq/MinecraftSkin/blob/master/その他/体操服_入れる.alex.gif "体操服")
 ![体操服](https://github.com/eyeq/MinecraftSkin/blob/master/その他/体操服_出す.alex.gif "体操服")
 ![着物](https://github.com/eyeq/MinecraftSkin/blob/master/その他/着物.alex.gif "着物")
@@ -305,13 +311,16 @@
 ![Display](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/displayMan.gif "Display")
 ![レインボーマン](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/レインボーマン.gif "レインボーマン")
 ##### 無生物
+![ロールケーキ](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/ロールケーキ.gif "ロールケーキ")
 ![時計塔](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/クロックタワーマン.gif "時計塔")
 ![時計](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/クロックマン.gif "時計")
 ![ポストマン](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/ポストマン.gif "ポストマン")
-![火山](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/火山.gif "火山")
 ![自動販売機の中の人](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/自動販売機の中の人.gif "自動販売機の中の人")
+![火山](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/火山.gif "火山")
 ##### 生物
 ![カービィ](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/カービィ.gif "カービィ")
+![クマ](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/あ、クマ.gif "クマ")
 ![かに](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/かに.gif "かに")
+![キツネ](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/虎の威を借る狐.gif "キツネ")
 ![マグロ](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/マグロ.gif "マグロ")
   
