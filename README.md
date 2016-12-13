@@ -4,13 +4,13 @@
 透過しているように見えても実際の表示はそうでない場合があります。  
   
 #### 目次
-- [Minecraft(5)](#minecraft)
+- [Minecraft(6)](#minecraft)
 - [Minecraft_blocks(21)](#minecraft_blocks)
 - [Minecraft_items(2)](#minecraft_items)
 - [Minecraft_entity(78)](#minecraft_entity)
 - [Ever17(10)](#ever17)
 - [あいまいみー(11)](#あいまいみー)
-- [ガーリッシュ ナンバー(5)]("ガーリッシュナンバー)
+- [ガーリッシュ ナンバー(7)]("ガーリッシュナンバー)
 - [最遊記(32)](#最遊記)
 - [パンティ&ストッキングwithガーターベルト(16)](#パンティストッキングwithガーターベルト)
 - [ひまわり(5)](#ひまわり)
@@ -21,6 +21,7 @@
 #### Minecraft
 ##### steve
 ![DoubleSteve](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft/steve_DoubleMan.gif "DoubleSteve")
+![TripleSteve](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft/steve_TripleMan.gif "TripleSteve")
 ![GoldenSteve](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft/steve_Golden.gif "GoldenSteve")
 ![2頭身](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft/steve_2頭身.gif "2頭身")
 ![3頭身](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft/steve_3頭身.gif "3頭身")
@@ -179,6 +180,9 @@
 ![片倉 京](https://github.com/eyeq/MinecraftSkin/blob/master/ガーリッシュ ナンバー/片倉 京.alex.gif "片倉 京")
 ![苑生 百花](https://github.com/eyeq/MinecraftSkin/blob/master/ガーリッシュ ナンバー/苑生 百花.alex.gif "苑生 百花")
 ![柴崎 万葉](https://github.com/eyeq/MinecraftSkin/blob/master/ガーリッシュ ナンバー/柴崎 万葉.alex.gif "柴崎 万葉")
+##### 他
+![烏丸 千歳](https://github.com/eyeq/MinecraftSkin/blob/master/ガーリッシュ ナンバー/烏丸 千歳_ゴリラ.gif "烏丸 千歳")
+![桜ヶ丘 七海](https://github.com/eyeq/MinecraftSkin/blob/master/ガーリッシュ ナンバー/桜ヶ丘 七海.gif "桜ヶ丘 七海")
 
 #### 最遊記
 ##### 三蔵一行
@@ -319,8 +323,8 @@
 ![火山](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/火山.gif "火山")
 ##### 生物
 ![カービィ](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/カービィ.gif "カービィ")
-![クマ](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/あ、クマ.gif "クマ")
 ![かに](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/かに.gif "かに")
-![キツネ](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/虎の威を借る狐.gif "キツネ")
 ![マグロ](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/マグロ.gif "マグロ")
+![キツネ](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/虎の威を借る狐.gif "キツネ")
+![クマ](https://github.com/eyeq/MinecraftSkin/blob/master/ねた/あ、クマ.gif "クマ")
   
