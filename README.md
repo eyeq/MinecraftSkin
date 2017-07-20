@@ -80,7 +80,7 @@
 ##### パーカー
 ![ベッドパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_bed.alex.gif "ベッドパーカー")
 ![ケーキパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_cake.alex.gif "ケーキパーカー")
-![ダイヤモンドパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_diamond_block_old.alex.gif "ベッドパーカー")
+![ダイヤモンドパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_diamond_block_old.alex.gif "ダイヤモンドパーカー")
 ![ゴールドパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_gold_block_old.alex.gif "ゴールドパーカー")
 ![アイアンパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_iron_block_old.alex.gif "アイアンパーカー")
 ![スイカパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_melon.alex.gif "スイカパーカー")
