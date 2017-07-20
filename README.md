@@ -5,9 +5,9 @@
   
 #### 目次
 - [Minecraft(6)](#minecraft)
-- [Minecraft_blocks(56)](#minecraft_blocks)
+- [Minecraft_blocks(59)](#minecraft_blocks)
 - [Minecraft_items(2)](#minecraft_items)
-- [Minecraft_entity(105)](#minecraft_entity)
+- [Minecraft_entity(106)](#minecraft_entity)
 - [Ever17(10)](#ever17)
 - [VOICEROID(1)](#voiceroid)
 - [あいまいみー(11)](#あいまいみー)
@@ -80,15 +80,19 @@
 ##### パーカー
 ![ベッドパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_bed.alex.gif "ベッドパーカー")
 ![ケーキパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_cake.alex.gif "ケーキパーカー")
+![ダイヤモンドパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_diamond_block_old.alex.gif "ベッドパーカー")
+![ゴールドパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_gold_block_old.alex.gif "ゴールドパーカー")
+![アイアンパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_iron_block_old.alex.gif "アイアンパーカー")
+![スイカパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_melon.alex.gif "スイカパーカー")
+![カボチャパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_pumpkin_off.alex.gif "カボチャパーカー")
+![カボチャパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_pumpkin_on.alex.gif "カボチャパーカー")
+
 ![作業台パーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_crafting_table.alex.gif "作業台パーカー")
 ![エンチャントテーブルパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_enchanting_table.alex.gif "エンチャントテーブルパーカー")
 ![かまどパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_furnace_front_off.alex.gif "かまどパーカー")
 ![かまどパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_furnace_front_on.alex.gif "かまどパーカー")
-![スイカパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_melon.alex.gif "スイカパーカー")
 ![オブザーバーパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_observer.alex.gif "オブザーバーパーカー")
 ![オブザーバーパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_observer_lit.alex.gif "オブザーバーパーカー")
-![カボチャパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_pumpkin_off.alex.gif "カボチャパーカー")
-![カボチャパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_blocks/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_pumpkin_on.alex.gif "カボチャパーカー")
 
 #### Minecraft_items
 ##### 単一アイテム
@@ -166,6 +170,7 @@
 ![ストレイパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_skeleton_stray_overlay.alex.gif "ストレイパーカー")
 ![ウィザースケルトンパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_skeleton_wither.alex.gif "ウィザースケルトンパーカー")
 ![スライムパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_slime.alex.gif "スライムパーカー")
+![スライムパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_slime_old.alex.gif "スライムパーカー")
 ![マグマキューブパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_slime_magmacube.alex.gif "マグマキューブパーカー")
 ![クモパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_spider.alex.gif "クモパーカー")
 ![洞窟グモパーカー](https://github.com/eyeq/MinecraftSkin/blob/master/Minecraft_entity/%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC_spider_cave.alex.gif "洞窟グモパーカー")
